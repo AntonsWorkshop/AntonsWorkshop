@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+Anton's+Workshop;Building+Digital+Masterpieces;Code+%7C+Create+%7C+Deploy;Let's+Build+Something+Fire" alt="Typing SVG" />
 </div>
 
@@ -62,4 +62,5 @@ Hi there! I'm **Anton**, and this is my digital workshop. I'm a passionate devel
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AntonsWorkshop&style=flat-square&color=blueviolet&label=Profile+Views" alt="profile views" />
-</div>
+</div> -->
+hi.
